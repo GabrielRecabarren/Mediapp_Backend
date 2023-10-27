@@ -1,0 +1,1 @@
+Versión node.JS 14, o superior.
